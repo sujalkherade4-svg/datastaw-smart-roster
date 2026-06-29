@@ -6,5 +6,5 @@ venv/
 *.db
 .streamlit/secrets.toml
 .DS_Store
-output_media/
+
 
